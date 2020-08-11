@@ -84,6 +84,16 @@
 	-patientService	(microservices)
 	
 	-doctor-portal (client Discovery)
+
++ Distributed Tracing with Spring Cloud Sleuth and Zipkin   
+
+	-DOCTORPORTAL
+	
+	-DOCTORSERVICEAPP
+	
+	-NOTIFICATIONSERVICEAPP
+	
+	-PATIENTSERVICEAPP
 	
 
 
