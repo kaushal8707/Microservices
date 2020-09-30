@@ -95,6 +95,23 @@
 	
 	-PATIENTSERVICEAPP
 	
++ Loadbalancer - Netflix Ribbon
+	
+	- DocServiceSD
+
+	- DocPortalSD
+
+	- DocPortal
+
+	- DocService
+	
++ Resilience4j - Circuit Breaker and DashBoard - Prometheus, Grafana, Micrometer
+
+	- registrationServicer4j
+	
+	- orderManagementAppr4j
+
+	
 
 
 
