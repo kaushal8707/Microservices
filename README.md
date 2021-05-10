@@ -1,6 +1,13 @@
 # Microservices  ( Application )
 ----------------
 
+MySQL Connectivity:------>
+
+Between UserManagementClient and SpringDataDemo
+
+
+
+
 + Create microservice RestfullApplication using SpringBoot and Java
 
 	-usermanagementapp
@@ -135,5 +142,14 @@ databases (spring maven project jdbc,jpa,springdata)
 springBoot-to-Spring ( maven project)
 
 spring-projects( maven projects)
+
+
+MySQL Connectivity:------>
+
+Between UserManagementClient and SpringDataDemo
+
+
+
+
 
 
